@@ -1,2 +1,2 @@
 # Online_store
-Online shopping store built with quasar and adonis
+A basic online shopping store built with quasar and adonis
